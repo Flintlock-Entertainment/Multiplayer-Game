@@ -6,4 +6,4 @@ Editor version: 2021.3.18f1
 
 Changes:
 1. Added score to the players
-2. Added a shield the players can pick up to defend themselves.   
+2. Added a shield the players can pick up to defend themselves.
